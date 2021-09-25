@@ -4,6 +4,7 @@ Depth-wise Split Separable Graph Convolution Network for Road Extraction in Comp
 ## quick start
 ### requirements
 python 3.6 CUDA10.1 GPU:2080Ti*1
+
 pytorch==1.1.0
 tqdm==4.49.0
 Pillow==6.1.0
