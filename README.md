@@ -15,6 +15,7 @@ You can changge epoch，batch_size，lr and decay in train_config.json
 1.Download the files mentioned in "dataset/gansu/readme"  
 2.python3 main.py  
 It will create a folder, named 'logs', and a log file. This log file will record the training process. 
+
 And the trained model, with maximum OA in validation set, will be saved in a folder, named 'saved', and record the epoch num in 'best_epoch.txt' when saving the model. 
 ### eval
 1.python3 eval.py  
