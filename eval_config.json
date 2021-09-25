@@ -1,0 +1,12 @@
+{   
+    "num_classes": 2,
+    "img_txt": "dataset/gansu/test.txt",
+    "train_model": { 
+        "select" : 0,
+        "model": ["SGCNNet"]
+    },
+    "save_model": {
+        "save": true,
+        "save_path": "saved/"
+    }
+}

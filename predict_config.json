@@ -1,0 +1,15 @@
+{   
+    "num_classes": 2,
+    "pre_dir": "predict/gansu",
+    "img_txt": "dataset/gansu/test.txt",
+	"img_height":256,
+	"img_width":256,
+    "predict_model": { 
+        "select" : 0,
+        "model": ["SGCNNet"]
+    },
+    "save_model": {
+        "save": true,
+        "save_path": "saved/"
+    }
+}
