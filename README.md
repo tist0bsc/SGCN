@@ -10,7 +10,7 @@ tqdm==4.49.0
 Pillow==6.1.0
 opencv-python==4.1.0.25
 ### parameters
-You can changge epoch，batch_size，lr and decay in train_config.json
+You can change epoch，batch_size，lr and decay in train_config.json
 ### train
 1.Download the files mentioned in "dataset/gansu/readme"  
 2.python3 main.py  
