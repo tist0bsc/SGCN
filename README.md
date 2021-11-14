@@ -27,7 +27,7 @@ It will evalute this model in test dataset, and print the metrics, including OA,
 
 You can find the visual results in 'predict/gansu/'，grays value of roads in 'vis' is 255 ，while 1 in 'mask'.
 
-##cite
+## cite
 @ARTICLE{9614130,
 author={Zhou, Gaodian and Chen, Weitao and Gui, Qianshan and Li, Xianju and Wang, Lizhe},
 journal={IEEE Transactions on Geoscience and Remote Sensing}, 
