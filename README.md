@@ -1,6 +1,8 @@
 # SGCN
 Split Depth-wise Separable Graph Convolution Network for Road Extraction in Complex Environment from High-resolution Remote Sensing Imagery
 
+Gaodian Zhou, Weitao Chen, Qianshan Gui, Xianju Li and Lizhe Wang,[Split Depth-wise Separable Graph Convolution Network for Road Extraction in Complex Environment from High-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/9614130)(IEEE TGRS, 2021)
+
 ## quick start
 ### requirements
 python 3.6 CUDA10.1 GPU:2080Ti*1
