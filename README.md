@@ -28,12 +28,12 @@ It will evalute this model in test dataset, and print the metrics, including OA,
 You can find the visual results in 'predict/gansu/'，grays value of roads in 'vis' is 255 ，while 1 in 'mask'.
 
 ##cite
-  @ARTICLE{9614130,
-  author={Zhou, Gaodian and Chen, Weitao and Gui, Qianshan and Li, Xianju and Wang, Lizhe},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Split Depth-wise Separable Graph-Convolution Network for Road Extraction in Complex Environments from High-resolution Remote-Sensing Images}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TGRS.2021.3128033}}
+@ARTICLE{9614130,
+author={Zhou, Gaodian and Chen, Weitao and Gui, Qianshan and Li, Xianju and Wang, Lizhe},
+journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+title={Split Depth-wise Separable Graph-Convolution Network for Road Extraction in Complex Environments from High-resolution Remote-Sensing Images}, 
+year={2021},
+volume={},
+number={},
+pages={1-1},
+doi={10.1109/TGRS.2021.3128033}}
